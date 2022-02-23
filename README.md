@@ -1,4 +1,4 @@
-# Nearest-Descent-in-tree-and-Clustering
+# Nearest Descent, in-tree, and-Clustering
 
 # Quick start
 **Demo1.m** was successfully tested on Matlab2018. 
